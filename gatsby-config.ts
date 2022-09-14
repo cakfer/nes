@@ -3,10 +3,10 @@ import type { GatsbyConfig } from "gatsby"
 const config: GatsbyConfig = {
   pathPrefix: `/gatsby-nes`,
   siteMetadata: {
-    title: `Gatsby NES`,
-    siteUrl: `https://demos.julien-maury.dev`,
+    title: `NESTAPA`,
+    siteUrl: `https://nesmain60250.gtsb.io/`,
     description: `powered by NES.CSS`,
-    author: `Julien Maury`,
+    author: `Ferry Ayunda`,
   },
   plugins: [
     `gatsby-plugin-preact`,

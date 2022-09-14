@@ -4,7 +4,7 @@ const sns = [
   {
     text: `Twitter`,
     icon: `twitter`,
-    url: `https://twitter.com/gatsbyjs/`,
+    url: `https://twitter.com/bungferry__/`,
   },
   {
     text: `LinkedIn`,
@@ -14,12 +14,12 @@ const sns = [
   {
     text: `Instagram`,
     icon: `instagram`,
-    url: `https://Instagram.com/`,
+    url: `https://Instagram.com/erossavanka`,
   },
   {
     text: `GitHub`,
     icon: `github`,
-    url: `https://github.com/jmau111/gatsby-nes`,
+    url: `https://nesmain60250.gtsb.io/`,
   },
 ]
 

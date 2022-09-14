@@ -1,0 +1,28 @@
+
+{
+  "include": [
+    "./src/**/*"
+  ],
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "target": "esnext",
+    "module": "esnext",
+    "lib": [
+      "dom",
+      "esnext"
+    ],
+    "jsx": "react",
+    "strict": true,
+    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "noEmit": true,
+    "skipLibCheck": true
+  },
+  "exclude": [
+    "node_modules",
+    "**/node_modules",
+    "**/.cache/*",
+    "**/public"
+  ]
+}

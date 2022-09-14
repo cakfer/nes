@@ -43,7 +43,7 @@ const config: GatsbyConfig = {
         short_name: `Nes`,
         start_url: `/`,
         background_color: `#fafafa`,
-        theme_color: `#0000ff`,
+        theme_color: `#ABD9FF`,
         display: `minimal-ui`,
         icon: `src/images/icon.png`,
       },
